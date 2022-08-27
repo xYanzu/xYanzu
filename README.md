@@ -1,6 +1,6 @@
 <h2 align="center">Yanzu Wiki <3 </h2>
 
-<img src="https://cdn.discordapp.com/attachments/1012844365409947681/1013210439397683292/eiro.gif">
+<img align='center'=src="https://cdn.discordapp.com/attachments/1012844365409947681/1013210439397683292/eiro.gif">
 
 <p align='center'>
 <a href="https://DiscoID.cc/970062816230912011"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,7 +22,7 @@
   ### 💽 Logiciels maitrisés
 <code><img height="20" src="https://cdn.discordapp.com/attachments/1012844365409947681/1013214624486789191/photoshop.png"></code>&nbsp;
 <code><img height="20" src="https://cdn.discordapp.com/attachments/1012844365409947681/1013214855823630437/C3D.webp"></code>&nbsp;
-<code><img height="20" src="https://cdn.discordapp.com/attachments/1012844365409947681/1013215239292059728/st.png></code>&nbsp;
+<code><img height="20" src="https://cdn.discordapp.com/attachments/1012844365409947681/1013215239292059728/st.png"></code>&nbsp;
 
 ### 👥 Visiteurs
 
