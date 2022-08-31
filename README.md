@@ -3,7 +3,7 @@
 <center><img src="https://cdn.discordapp.com/attachments/1012844365409947681/1013210439397683292/eiro.gif"></center>
 
 <p align='center'>
-<a href="https://DiscoID.cc/970062816230912011"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://DiscoID.cc/1008555410485162148"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCDT-v2iF_wGjMUrX3QkK0Ug?sub_confirmation=1"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/yanzu1337"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
 </p>
