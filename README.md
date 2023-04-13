@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://xyanzu.ml](https://xyanzu.ml)
 
-- 💬 Ask me about **Frond-End / UI Design**
+- 💬 Ask me about **Front-End / UI Design**
 
 - 📫 How to reach me **yanzudsc@proton.me**
 
