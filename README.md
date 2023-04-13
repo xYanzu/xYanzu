@@ -1,32 +1,32 @@
-<h2 align="center">Yanzu Wiki <3 </h2>
+<h1 align="center">Hi 👋, I'm Yanzu</h1>
+<h3 align="center">A passionate frontend developer from France</h3>
 
-<center><img src="https://cdn.discordapp.com/attachments/1012844365409947681/1013210439397683292/eiro.gif"></center>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xyanzu&label=Profile%20views&color=0e75b6&style=flat" alt="xyanzu" /> </p>
 
-<p align='center'>
-<a href="https://DiscoID.cc/1008555410485162148"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCDT-v2iF_wGjMUrX3QkK0Ug?sub_confirmation=1"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/yanzu1337"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
+- 🔭 I’m currently working on [Core Client](https://github.com/xCoreProject/CoreClient)
+
+- 🌱 I’m currently learning **Inspiration...**
+
+- 👨‍💻 All of my projects are available at [https://xyanzu.ml](https://xyanzu.ml)
+
+- 💬 Ask me about **Frond-End / UI Design**
+
+- 📫 How to reach me **yanzudsc@proton.me**
+
+- 📄 Know about my experiences [I am a young amateur front-end developer full of motivation](I am a young amateur front-end developer full of motivation)
+
+- ⚡ Fun fact **I hate skidder**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/yanzu1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yanzu1337" height="30" width="40" /></a>
 </p>
-<br>
-<h1 align="center"Yanzu ↓ </h1>
-<p1 align="center"Beginner Developer</p1>
-<p2 align="center"Graphist Artist</p2>
 
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-### 📫 Langage maîtrisés
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></code>&nbsp;
-<code><img height="20" src="https://cdn.discordapp.com/attachments/769272569034833920/782774606087979028/1_l4xICbIIYlz1OTymWCoUTw.jpeg"></code>&nbsp;
-  
-  ### 💽 Logiciels maitrisés
-<code><img height="20" src="https://cdn.discordapp.com/attachments/1012844365409947681/1013214624486789191/photoshop.png"></code>&nbsp;
-<code><img height="20" src="https://cdn.discordapp.com/attachments/1012844365409947681/1013214855823630437/C3D.webp"></code>&nbsp;
-<code><img height="20" src="https://cdn.discordapp.com/attachments/1012844365409947681/1013215239292059728/st.png"></code>&nbsp;
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/xyanzu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xyanzu" /></a></p><br><br>
 
-### 👥 Visiteurs
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xyanzu&show_icons=true&locale=en" alt="xyanzu" /></p>
 
-![Profile views](https://gpvc.arturio.dev/xYanzu)
-
-
-  
