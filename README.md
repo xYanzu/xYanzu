@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [Core Client](https://github.com/xCoreProject/CoreClient)<br><br>- 🌱 I’m currently learning **Inspiration...**<br><br>- 👨‍💻 All of my projects are available at [https://xyanzu.ml](https://xyanzu.ml)<br><br>- 💬 Ask me about **Front-End / UI Design**<br><br>- 📫 How to reach me **yanzudsc@proton.me**<br><br>- 📄 Know about my experiences [I am a young amateur front-end developer full of motivation](I am a young amateur front-end developer full of motivation)<br><br>- ⚡ Fun fact **I hate skidder**
+- 🔭 I’m currently working on [Core Client](https://github.com/xCoreProject/CoreClient)<br><br> - 🌱 I’m currently learning **Inspiration...**<br><br> - 👨‍💻 All of my projects are available at [https://xyanzu.ml](https://xyanzu.ml)<br><br> - 💬 Ask me about **Front-End / UI Design**<br><br> - 📫 How to reach me **yanzudsc@proton.me**<br><br> - 📄 Know about my experiences [I am a young amateur front-end developer full of motivation](I am a young amateur front-end developer full of motivation)<br><br> - ⚡ Fun fact **I hate skidder**
 
 
 ## 🌐 Socials:
